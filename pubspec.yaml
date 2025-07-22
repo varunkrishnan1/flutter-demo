@@ -21,3 +21,13 @@ flutter:
     - family: Oswald
       fonts:
         - asset: assets/fonts/Oswald-VariableFont_wght.ttf
+  assets:
+     - assets/images/chicken_noodles.webp
+     - assets/images/paneer.webp
+     - assets/images/biri.webp
+     - assets/images/fish_curry.webp
+     - assets/images/egg.webp
+     - assets/images/mutton.webp
+     - assets/images/masala.webp
+     - assets/images/butter.webp
+     - assets/images/swiggy.png
